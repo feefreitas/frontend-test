@@ -63,8 +63,8 @@ POST /api/Authorization/RequestToken
 
 ## Chegou a hora de entregar :tada:
 
-Agora é só disponibilizar seu código num repositório **público** ou **privado** no seu Github pessoal, envie o link para vemprotime@praxio.com.br ou faça um `pull-request`. Você tem até 7 dias após a sua aplicação na vaga pelo [site](https://jobs.kenoby.com/praxio).
+Agora é só disponibilizar seu código num repositório **público** ou **privado** no seu Github pessoal, envie o link para fernanda.freitas@praxio.com.br ou faça um `pull-request`. Você tem até 7 dias após a sua aplicação na vaga pelo [site](https://jobs.kenoby.com/praxio).
 
 ## Dúvidas
 
-Se tiver alguma dúvida é só nos enviar pelo e-mail vemprotime@praxio.com.br ou abrindo uma issue :grimacing:
+Se tiver alguma dúvida é só nos enviar pelo e-mail fernanda.freitas@praxio.com.br ou abrindo uma issue :grimacing:
